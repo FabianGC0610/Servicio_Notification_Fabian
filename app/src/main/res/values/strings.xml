@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">Memo</string>
+  <string name="play_p_level">Jugar nivel %1$s</string>
+  <string name="quit">Salir</string>
+  <string name="ok">Aceptar</string>
+  <string name="well_done_your_time_is_p">¡Bien hecho! Tu tiempo es: %1$s s</string>
+  <string name="click_ok_to_reset_progress">Clic Aceptar para reiniciar el progreso.</string>
+  <string name="you_have_finished_all_levels">¡Has terminado todos los niveles!</string>
+  <string name="click_ok_for_proceeding_to_the_next_level">Clic Aceptar para ir al siguiente nivel.</string>
+  <string name="time_is_running">Tiempo\'s en ejecución %1$s</string>
+  <string name="get_back">Oye! Regresa! :]</string>
+  <string name="error_in_generating_cards">Error al generar las cartas</string>
+  <string name="service_is_not_bound">El servicio no está ligado</string>
+  <string name="song_name">Nombre de la canción</string>
+  <string name="music_started">Música iniciada</string>
+  <string name="music_stopped">Música detenida</string>
+  <string name="music_paused">Música pausada</string>
+  <string name="songs_shuffled">Canciones aleatorias</string>
+
+  <!--  Content description-->
+  <string name="cd_memo_icon">Memo Icon</string>
+  <string name="cd_play_icon">Play music icon</string>
+  <string name="cd_stop_icon">Stop music icon</string>
+  <string name="cd_pause_icon">Pause music icon</string>
+  <string name="error_occured_in_starting_song">Ocurrió un error al iniciar la canción</string>
+  <string name="unknown">Desconocido</string>
+</resources>
